@@ -1,0 +1,21 @@
+* {
+    width: auto;
+    height: auto;
+    max-height: 1200;
+    max-width: 1920;
+    background-color: black;
+    margin-top: 2vh;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons button {
+    color: black;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: blue;
+    padding: 10px 20px;
+}
